@@ -1,0 +1,22 @@
+*{
+    text-decoration: none !important;
+    list-style: none !important;
+}
+body{
+    background-color: #eee;
+}
+.card{
+    margin: 200px auto;
+    box-shadow: 3px 3px 5px 0px rgba(0, 0, 0, 0.75);
+}
+.card input:focus{
+    outline: 0;
+    border-color: #80bdff;
+    box-shadow:  0 0  0 0 transparent !important;
+}
+.inputs{
+    margin-block: 1rem;
+}
+.navbar{
+    box-shadow: 3px 3px 5px 0px rgba(0, 0, 0, 0.75);
+}
